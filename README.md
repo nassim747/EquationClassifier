@@ -36,18 +36,3 @@ Mathematical equations are visually encoded as grayscale images. The objective i
    - Validation set used to tune hyperparameters and monitor performance.
 
 ---
-
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/equation-classifier.git
-   cd equation-classifier
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   Open `project_overview.ipynb` in Jupyter Notebook or JupyterLab and execute the cells sequentially.
